@@ -33,7 +33,7 @@ Allow users to set fitness goals. This could be another Svelte form, similar to 
 ### Progress Tracking
 You could display a user's progress towards their goals on a dashboard. This would involve fetching user data from the Appwrite database, processing it, and displaying it in a meaningful way.
 
-## Data Visualization
+### Data Visualization
 To make the app more user-friendly, I can use a data visualization library like Chart.js or D3.js to display workout data.
 
 ### Testing
