@@ -11,7 +11,7 @@ https://abalone-swing-bf0.notion.site/Project-Submission-Template-2481a63352434b
 
 **Client:** Vue/Nuxt 3, Tailwind CSS/Daisy UI or Vuetify 3
 
-**Server:** Appwrite
+**Server/Backend:** Appwrite
 
 ## Roadmap
 
